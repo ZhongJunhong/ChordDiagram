@@ -7,7 +7,7 @@ And here is the repo:
 
 > https://github.com/tfardet/mpl_chord_diagram
 
-This repo is my practice of plotting a chord diagram, the specific content about this repo and its ipynb has been posted on my ZHIHU channel.
+This repo is my practice of plotting a chord diagram, the specific content about this repo has been posted on my ZHIHU channel.
 
 Here is it:
 
